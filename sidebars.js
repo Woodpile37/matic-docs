@@ -55,7 +55,7 @@ develop: [
       type: "category",
       label: "Network Details",
       items: [
-        "develop/network-details/network",
+        "develop/network-details/network-rpc-endpoints",
         "develop/network-details/mapped-tokens",
         "develop/network-details/gas-token",
         "develop/network-details/genesis-contracts",
