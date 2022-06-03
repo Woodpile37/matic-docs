@@ -346,8 +346,6 @@ develop: [
       label: "Meta Transactions",
       items: [
         "develop/meta-transactions/meta-transactions",
-        "develop/meta-transactions/meta-transactions-biconomy",
-        "develop/meta-transactions/meta-transactions-gsn",
         "develop/meta-transactions/network-agnostics",
       ],
     },
