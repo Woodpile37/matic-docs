@@ -142,10 +142,8 @@ develop: [
           type: "category",
           label: "Meta Transactions",
           items: [
-            "develop/metatransactions/getting-started",
-            "develop/metatransactions/metatransactions-biconomy",
-            "develop/metatransactions/metatransactions-gsn",
-            "develop/metatransactions/network-agnostics",
+            "develop/meta-transactions/meta-transactions",
+            "develop/meta-transactions/network-agnostics",
           ],
         },
       ],
@@ -340,14 +338,6 @@ develop: [
         "develop/ethereum-polygon/mintable-assets",
         "develop/l1-l2-communication/state-transfer",
         "develop/l1-l2-communication/fx-portal",
-      ],
-    },
-    {
-      type: "category",
-      label: "Meta Transactions",
-      items: [
-        "develop/meta-transactions/meta-transactions",
-        "develop/meta-transactions/network-agnostics",
       ],
     },
     {
