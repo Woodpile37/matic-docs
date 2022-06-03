@@ -11,7 +11,7 @@ keywords:
   - meta transactions
   - gasless
 image: https://matic.network/banners/matic-network-16x9.png
-slug: getting-started
+slug: meta-transactions
 ---
 
 Daily smart contract calls are at their highest, hitting around 2.5 to 3 million per day. 
