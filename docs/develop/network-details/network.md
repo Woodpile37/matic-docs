@@ -27,10 +27,9 @@ JSON-RPC is a stateless, lightweight, remote procedure call (RPC) protocol that 
 commonly used when interacting with a blockchain network.
 
 A user can also run their own node when interacting with the Polygon PoS chain or utilize
-one of the public endpoints provided by infrastructure and API service providers to connect to the 
-network. Dagger is the best way to get realtime updates from the chain as it provides a way for your
-dApps and backend system to get blockchain events in realtime over a websocket. These endpoints are
-listed below.
+one of the public endpoints provided by infrastructure and API service providers to connect to 
+the network. Dagger is the best way to get realtime updates from the chain as it provides a way 
+for your dApps and backend system to get blockchain events in realtime over a socket or websocket. 
 
 <Tabs
   defaultValue="mainnet"
