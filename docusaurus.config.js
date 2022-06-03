@@ -31,11 +31,11 @@ module.exports = {
             from: '/docs/pos/bug-bountry-programs',
           },
           {
-            to: '/docs/develop/metatransactions/meta-transactions',
+            to: '/docs/develop/meta-transactions/meta-transactions',
             from: '/docs/develop/metatransactions/metatransactions-biconomy',
           },
           {
-            to: '/docs/develop/metatransactions/meta-transactions',
+            to: '/docs/develop/meta-transactions/meta-transactions',
             from: '/docs/develop/metatransactions/metatransactions-gsn',
           },
           {
