@@ -7,7 +7,7 @@ export const firstRow = [
       description: "Learn about the basics of blockchain and Polygon and how to get started."
   },
   {
-      title: "Staking Hub",
+      title: "Staker Hub",
       status: "Beginner",
       linkUrl: "docs/maintain/delegate/delegate/",
       imageUrl: "img/supernet.svg",
