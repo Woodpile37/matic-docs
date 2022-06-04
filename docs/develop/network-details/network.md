@@ -1,7 +1,7 @@
 ---
 id: network-rpc-endpoints
-title: Network RPCs & Endpoints
-sidebar_label: RPCs & Endpoints
+title: Network Endpoints
+sidebar_label: Network Endpoints
 description: Network endpoints for Polyon PoS mainnet and testnet
 keywords:
   - docs
@@ -19,17 +19,8 @@ slug: network
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-This index guide contains details for RPC and node endpoints for the Polygon PoS chain. 
-
-Developers can interact with on-chain data and send different types of transactions to 
-the network by utilizing network endpoints. The APIs follows a JSON-RPC standard;
-JSON-RPC is a stateless, lightweight, remote procedure call (RPC) protocol that is 
-commonly used when interacting with a blockchain network.
-
-A user can also run their own node when interacting with the Polygon PoS chain or utilize
-one of the public endpoints provided by infrastructure and API service providers to connect to 
-the network. Dagger is the best way to get realtime updates from the chain as it provides a way 
-for your dApps and backend system to get blockchain events in realtime over a socket or websocket. 
+This index guide contains network details for the Mumbai testnet and Polygon PoS mainnet and 
+lists their associated RPC and node endpoints.
 
 <Tabs
   defaultValue="mainnet"
@@ -95,7 +86,29 @@ containing network details.
 </TabItem>
 </Tabs>
 
-## Infrastructure Providers
+## RPC API Methods
+
+Developers can interact with on-chain data and send different types of transactions to 
+the network by utilizing network endpoints. The APIs follows a JSON-RPC standard;
+JSON-RPC is a stateless, lightweight, remote procedure call (RPC) protocol that is 
+commonly used when interacting with a blockchain network.
+
+:::info Get started with RPC calls
+
+Start by visiting the complete set of API documentation for standard 
+[**Polygon JSON-RPC calls**](https://edge-docs.polygon.technology/docs/get-started/json-rpc-commands/).
+
+If you want to get started with API requests that require no set-up, fix failing requests, or, 
+explore new methods on the Polygon network, try out the [**Composer App**](https://composer.alchemyapi.io?composer_state=%7B%22chain%22%3A2%2C%22network%22%3A401%2C%22methodName%22%3A%22eth_getBlockByNumber%22%2C%22paramValues%22%3A%5B%22latest%22%2Cfalse%5D%7D).
+
+:::
+
+A user can also run their own node when interacting with the Polygon PoS chain or utilize
+one of the public endpoints provided by infrastructure and API service providers to connect to 
+the network. Dagger is the best way to get realtime updates from the chain as it provides a way 
+for your dApps and backend system to get blockchain events in realtime over a socket or websocket. 
+
+### Infrastructure Providers
 
 Public RPCs may have traffic or rate-limits depending on usage. 
 You can sign up for a dedicated free RPC URL at the following:

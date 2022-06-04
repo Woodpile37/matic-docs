@@ -384,7 +384,6 @@ develop: [
       ],
     },
       "develop/did-implementation",
-      "develop/getting-started-rpc",
     {
       type: "category",
       label: "Advanced",
