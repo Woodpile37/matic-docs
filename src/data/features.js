@@ -1,13 +1,13 @@
 export const firstRow = [
   {
-      title: "Learner Hub",
+      title: "Learning Hub",
       status: "Beginner",
       linkUrl: "docs/home/new-to-polygon/",
       imageUrl: "img/supernet.svg",
       description: "Learn about the basics of blockchain and Polygon and how to get started."
   },
   {
-      title: "Staker Hub",
+      title: "Staking Hub",
       status: "Beginner",
       linkUrl: "docs/maintain/delegate/delegate/",
       imageUrl: "img/supernet.svg",
