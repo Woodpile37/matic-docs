@@ -2354,21 +2354,13 @@
     postcss-sort-media-queries "^4.4.1"
     tslib "^2.6.0"
 
-"@docusaurus/logger@3.1.1":
+"@docusaurus/logger@3.1.1", "@docusaurus/logger@^3.1.0":
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/logger/-/logger-3.1.1.tgz#423e8270c00a57b1b3a0cc8a3ee0a4c522a68387"
   integrity sha512-BjkNDpQzewcTnST8trx4idSoAla6zZ3w22NqM/UMcFtvYJgmoE4layuTzlfql3VFPNuivvj7BOExa/+21y4X2Q==
   dependencies:
     chalk "^4.1.2"
     tslib "^2.6.0"
-
-"@docusaurus/logger@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/logger/-/logger-2.2.0.tgz#ea2f7feda7b8675485933b87f06d9c976d17423f"
-  integrity sha512-DF3j1cA5y2nNsu/vk8AG7xwpZu6f5MKkPPMaaIbgXLnWGfm6+wkOeW7kNrxnM95YOhKUkJUophX69nGUnLsm0A==
-  dependencies:
-    chalk "^4.1.2"
-    tslib "^2.4.0"
 
 "@docusaurus/mdx-loader@3.1.1":
   version "3.1.1"
