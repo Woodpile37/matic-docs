@@ -43,7 +43,7 @@
     "remark-math": "3",
     "request": "2.88.2",
     "semver-regex": "^3.1.4",
-    "shell-quote": "1.7.3",
+    "shell-quote": "1.8.1",
     "trim": "^0.0.3",
     "trim-newlines": "^3.0.1",
     "yarn-deduplicate": "^6.0.0",
