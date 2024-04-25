@@ -45,7 +45,7 @@
     "semver-regex": "^3.1.4",
     "shell-quote": "1.7.3",
     "trim": "^0.0.3",
-    "trim-newlines": "^3.0.1",
+    "trim-newlines": "^5.0.0",
     "yarn-deduplicate": "^6.0.0",
     "@snyk/protect": "latest"
   },
