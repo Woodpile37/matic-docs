@@ -2602,24 +2602,24 @@
     sitemap "^7.1.1"
     tslib "^2.6.0"
 
-"@docusaurus/preset-classic@^3.2.1":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-3.2.1.tgz#25a18ebaf271ec91ab7430a76a9054f101593de1"
-  integrity sha512-E3OHSmttpEBcSMhfPBq3EJMBxZBM01W1rnaCUTXy9EHvkmB5AwgTfW1PwGAybPAX579ntE03R+2zmXdizWfKnQ==
+"@docusaurus/preset-classic@^3.0.0":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-3.1.1.tgz#15fd80012529dafd7e01cc0bce59d39ee6ad6bf5"
+  integrity sha512-jG4ys/hWYf69iaN/xOmF+3kjs4Nnz1Ay3CjFLDtYa8KdxbmUhArA9HmP26ru5N0wbVWhY+6kmpYhTJpez5wTyg==
   dependencies:
-    "@docusaurus/core" "3.2.1"
-    "@docusaurus/plugin-content-blog" "3.2.1"
-    "@docusaurus/plugin-content-docs" "3.2.1"
-    "@docusaurus/plugin-content-pages" "3.2.1"
-    "@docusaurus/plugin-debug" "3.2.1"
-    "@docusaurus/plugin-google-analytics" "3.2.1"
-    "@docusaurus/plugin-google-gtag" "3.2.1"
-    "@docusaurus/plugin-google-tag-manager" "3.2.1"
-    "@docusaurus/plugin-sitemap" "3.2.1"
-    "@docusaurus/theme-classic" "3.2.1"
-    "@docusaurus/theme-common" "3.2.1"
-    "@docusaurus/theme-search-algolia" "3.2.1"
-    "@docusaurus/types" "3.2.1"
+    "@docusaurus/core" "3.1.1"
+    "@docusaurus/plugin-content-blog" "3.1.1"
+    "@docusaurus/plugin-content-docs" "3.1.1"
+    "@docusaurus/plugin-content-pages" "3.1.1"
+    "@docusaurus/plugin-debug" "3.1.1"
+    "@docusaurus/plugin-google-analytics" "3.1.1"
+    "@docusaurus/plugin-google-gtag" "3.1.1"
+    "@docusaurus/plugin-google-tag-manager" "3.1.1"
+    "@docusaurus/plugin-sitemap" "3.1.1"
+    "@docusaurus/theme-classic" "3.1.1"
+    "@docusaurus/theme-common" "3.1.1"
+    "@docusaurus/theme-search-algolia" "3.1.1"
+    "@docusaurus/types" "3.1.1"
 
 "@docusaurus/react-loadable@5.5.2":
   version "5.5.2"
@@ -2861,31 +2861,6 @@
     js-yaml "^4.1.0"
     lodash "^4.17.21"
     micromatch "^4.0.5"
-    resolve-pathname "^3.0.0"
-    shelljs "^0.8.5"
-    tslib "^2.6.0"
-    url-loader "^4.1.1"
-    webpack "^5.88.1"
-
-"@docusaurus/utils@3.2.1":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@docusaurus/utils/-/utils-3.2.1.tgz#25247d071618bc7ece9bbc3d59f3ee1ac3ded727"
-  integrity sha512-DPkIS/EPc+pGAV798PUXgNzJFM3HJouoQXgr0KDZuJVz1EkWbDLOcQwLIz8Qx7liI9ddfkN/TXTRQdsTPZNakw==
-  dependencies:
-    "@docusaurus/logger" "3.2.1"
-    "@docusaurus/utils-common" "3.2.1"
-    "@svgr/webpack" "^6.5.1"
-    escape-string-regexp "^4.0.0"
-    file-loader "^6.2.0"
-    fs-extra "^11.1.1"
-    github-slugger "^1.5.0"
-    globby "^11.1.0"
-    gray-matter "^4.0.3"
-    jiti "^1.20.0"
-    js-yaml "^4.1.0"
-    lodash "^4.17.21"
-    micromatch "^4.0.5"
-    prompts "^2.4.2"
     resolve-pathname "^3.0.0"
     shelljs "^0.8.5"
     tslib "^2.6.0"
@@ -15274,10 +15249,10 @@ semver-regex@^2.0.0:
   resolved "https://registry.npmjs.org/semver-regex/-/semver-regex-2.0.0.tgz"
   integrity sha512-mUdIBBvdn0PLOeP3TEkMH7HHeUP3GjsXCwKarjv/kGmUFOYg1VqEemKhoQpWMu6X2I8kHeuVdGibLGkVK+/5Qw==
 
-semver-regex@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.npmjs.org/semver-regex/-/semver-regex-3.1.4.tgz"
-  integrity sha512-6IiqeZNgq01qGf0TId0t3NvKzSvUsjcpdEO3AQNeIjR6A2+ckTnQlDpl4qu1bjRv0RzN3FP9hzFmws3lKqRWkA==
+semver-regex@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/semver-regex/-/semver-regex-4.0.5.tgz#fbfa36c7ba70461311f5debcb3928821eb4f9180"
+  integrity sha512-hunMQrEy1T6Jr2uEVjrAIqjwWcQTgOAcIM52C8MY1EZSD3DDNft04XzvYKPqjED65bNVVko0YI38nYeEHCX3yw==
 
 semver-truncate@^1.1.2:
   version "1.1.2"
